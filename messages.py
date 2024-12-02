@@ -14,7 +14,7 @@ ROLE_MESSAGES = {
 }
 ROLE_SELECTED_MESSAGE = 'Now, please select a model. Each model offers different accuracy levels.'
 MODEL_SELECTED_MESSAGES = {
-    'gpt-3.5-turbo': 'You selected GPT-3.5. Feel free to ask your questions!',
+    'gpt-3.5-turbo': 'You selected GPT-3.5. It respondes faster then any other modal.Ask your questions!',
     'gpt-4': 'You selected GPT-4. This model offers advanced responses. Start asking your questions!',
     'gpt-4-turbo': 'You selected GPT-4 Turbo. A faster version of GPT-4. Ask your questions now!'
 }
