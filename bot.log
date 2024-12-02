@@ -851,3 +851,70 @@ Mixed conditionals are particularly useful for expressing regret, criticism, or 
 \u041d\u0430\u0434\u0435\u044e\u0441\u044c, \u0447\u0442\u043e \u044d\u0442\u0438 \u0441\u043e\u0432\u0435\u0442\u044b \u043f\u043e\u043c\u043e\u0433\u0443\u0442 \u0432\u0430\u043c \u043d\u0430\u0439\u0442\u0438 \u043d\u043e\u0432\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u043a \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e \u0438\u0441\u0442\u043e\u0440\u0438\u0438!
 2024-12-02 02:43:59,196 - User 5862438479 started the bot.
 2024-12-02 02:44:01,034 -  User 5862438479 selected role: language_learning
+2024-12-02 13:49:34,909 - customLogger - INFO - User 5862438479 started the bot.
+2024-12-02 13:49:45,290 - customLogger - INFO - User 5862438479 selected role: language_learning
+2024-12-02 13:49:50,285 - customLogger - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 13:49:50,348 - customLogger - WARNING - Error deleting message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-12-02 13:50:07,751 - customLogger - INFO - User 5862438479 sent a message: Hhhhh
+2024-12-02 13:51:07,004 - customLogger - INFO - User 5862438479 started the bot.
+2024-12-02 13:51:08,605 - customLogger - INFO - User 5862438479 selected role: language_learning
+2024-12-02 13:51:12,898 - customLogger - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 13:51:12,954 - customLogger - WARNING - Error deleting message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-12-02 13:51:18,338 - customLogger - INFO - User 5862438479 sent a message: Jjj
+2024-12-02 13:52:21,410 - customLogger - INFO - User 5862438479 started the bot.
+2024-12-02 13:52:22,806 - customLogger - INFO - User 5862438479 selected role: language_learning
+2024-12-02 13:52:26,714 - customLogger - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 13:52:26,807 - customLogger - WARNING - Error deleting message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-12-02 13:52:32,268 - customLogger - INFO - User 5862438479 sent a message: Juju
+2024-12-02 13:56:11,829 - customLogger - INFO - User 5862438479 started the bot.
+2024-12-02 13:56:13,448 - customLogger - INFO - User 5862438479 selected role: language_learning
+2024-12-02 13:56:17,136 - customLogger - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 13:56:17,186 - customLogger - WARNING - Error deleting message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-12-02 13:56:23,543 - customLogger - INFO - User 5862438479 sent a message: Hhhh
+2024-12-02 13:56:26,784 - customLogger - INFO - Response to user 5862438479: Hello! It looks like you might have a typo or accidental input there. How can I assist you with learning foreign languages today?
+2024-12-02 13:59:11,166 - customLogger - INFO - User 5862438479 started the bot.
+2024-12-02 13:59:12,365 - customLogger - INFO - User 5862438479 selected role: language_learning
+2024-12-02 13:59:16,401 - customLogger - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 13:59:16,470 - customLogger - WARNING - Error deleting message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-12-02 13:59:20,213 - customLogger - INFO - User 5862438479 sent a message: Fly
+2024-12-02 13:59:27,247 - customLogger - INFO - Response to user 5862438479: In order to provide you with the most accurate translation, I would need to know the specific language you are interested in. "Fly" can be translated into many different languages! Here are a few examples:
+
+1. Spanish: volar
+2. French: voler
+3. German: fliegen
+4. Italian: volare
+5. Mandarin Chinese: 飞 (fēi)
+6. Japanese: 飛ぶ (tobu)
+7. Korean: 날다 (nalda)
+8. Russian: летать (letat')
+9. Arabic: يطير (yateer)
+10. Portuguese: voar
+
+Let me know if you want the translation in another language or need help with anything else related to languages!
+2024-12-02 14:00:12,861 - ChatGPT_bot - INFO - User 5862438479 started the bot.
+2024-12-02 14:00:13,987 - ChatGPT_bot - INFO - User 5862438479 selected role: language_learning
+2024-12-02 14:00:18,543 - ChatGPT_bot - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 14:00:38,663 - ChatGPT_bot - INFO - User 5862438479 sent a message: Jump
+2024-12-02 14:00:41,588 - ChatGPT_bot - INFO - Response to user 5862438479: It seems like you entered a single word, "Jump." Could you please specify how you’d like to use this word? Are you looking for translations, usage in sentences, synonyms, or something else? Let me know so I can assist you better!
+2024-12-02 14:00:53,436 - ChatGPT_bot - INFO - User 5862438479 sent a message: Fly
+2024-12-02 14:00:57,832 - ChatGPT_bot - INFO - Response to user 5862438479: Just like the previous word "jump," it seems you've provided another single word, "fly." To assist you effectively, could you specify how you'd like to explore this word? For instance, are you interested in its translation into another language, usage in different contexts, or perhaps its conjugation? Feel free to specify any particular language or detail as well!
+2024-12-02 14:01:03,260 - ChatGPT_bot - INFO - User 5862438479 started the bot.
+2024-12-02 14:01:04,460 - ChatGPT_bot - INFO - User 5862438479 selected role: language_learning
+2024-12-02 14:01:08,272 - ChatGPT_bot - INFO - User 5862438479 selected model: gpt-4-turbo
+2024-12-02 14:01:11,821 - ChatGPT_bot - INFO - User 5862438479 sent a message: Fly
+2024-12-02 14:01:18,492 - ChatGPT_bot - INFO - Response to user 5862438479: If you would like to learn how to say "fly" in a few different languages, I can provide translations. Here are translations in some popular languages:
+
+1. **Spanish**: volar
+2. **French**: voler
+3. **German**: fliegen
+4. **Italian**: volare
+5. **Portuguese**: voar
+6. **Russian**: летать (letat')
+7. **Chinese (Mandarin)**: 飞 (fēi)
+8. **Japanese**: 飛ぶ (tobu)
+9. **Korean**: 날다 (nalda)
+10. **Arabic**: طيران (tayaran)
+11. **Hindi**: उड़ना (uṛnā)
+
+If you need translations in other languages or specific details like conjugations or how to use "fly" in a sentence, feel free to ask!
+2024-12-02 14:02:52,785 - ChatGPT_bot - INFO - User 5862438479 started the bot.
