@@ -1,0 +1,853 @@
+2024-11-21 13:13:17,301 - User 5862438479 started the bot.
+2024-11-21 13:13:21,579 - User 5862438479 selected a role: language_learning
+2024-11-21 13:13:22,927 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:13:35,519 - User 5862438479 sent message: liegen, bot replied: "Liegen" is a German verb that means "to lie" as in lying down. It is an intransitive verb, so it does not require a direct object. Here are its conjugations in the present tense:
+
+- ich liege (I lie)
+- du liegst (you lie, informal singular)
+- er/sie/es liegt (he/she/it lies)
+- wir liegen (we lie)
+- ihr liegt (you lie, informal plural)
+- sie liegen (they lie)
+- Sie liegen (you lie, formal singular and plural)
+
+For example, you can say, "Ich liege im Bett" which means "I am lying in bed."
+2024-11-21 13:22:17,027 - User 5862438479 started the bot.
+2024-11-21 13:22:20,525 - User 5862438479 selected a role: essay_writer
+2024-11-21 13:22:22,392 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:22:58,763 - User 5862438479 sent message: life, bot replied: When writing an essay about life, itï¿½s vital to first define the specific angle or topic you want to focus on within the broad range of possible aspects about life. Here are several themes you might consider:
+
+1. **The Meaning of Life**: Discuss philosophical theories about what gives life meaning. This could include existential, nihilistic or theistic perspectives, or personal anecdotes about what people believe gives their life purpose.
+
+2. **The Stages of Life**: Explore how different cultures or societies understand the stages of human life, from birth through childhood, adolescence, adulthood, and old age. This could also include examining rituals, milestones, or education systems.
+
+3. **Life Challenges and Growth**: Consider the various challenges people face in life such as disease, poverty, social injustice, or personal loss, and discuss how these experiences contribute to personal growth and resilience.
+
+4. **Technology and Life**: Analyze how technology has changed the way we live, from the way we communicate and work to the way we form relationships and consume media. Look into both the positive impacts and the negative ramifications.
+
+5. **Life and Environment**: Discuss the relationship between human life and the environment. This might include topics such as sustainability, the effects of climate change on human populations, or conservation efforts.
+
+6. **Artificial Life**: Dive into discussions on artificial intelligence, cloning, and other scientific advancements that raise questions about what constitutes life and what the future might hold in terms of human existence alongside or integrated with artificial life forms.
+
+7. **Life Balance**: Write about the concept of work-life balance, the pressures of modern life, and the strategies people employ to maintain equilibrium in their personal and professional lives.
+
+Once you have chosen a specific angle:
+
+- **Start with an Introduction**: Introduce your topic, providing a brief overview of what you will be discussing, and stating your thesis or main argument.
+
+- **Develop the Body**: Structure your main points into paragraphs, each with a clear topic sentence and supporting evidence, whether it be statistical data, quotes from notable figures, or examples from literature or history.
+
+- **Conclude Effectively**: Summarize your main points and restate your thesis in a new way, reflect on the broader implications, and perhaps end with a question or a call to action for your readers.
+
+Remember to maintain a clear and coherent structure throughout your essay to keep your argument focused and your reader engaged.
+2024-11-21 13:39:04,944 - User 5862438479 has started using the bot
+2024-11-21 13:46:23,180 - Error processing message for the user 1667940951: cannot access local variable 'role_description' where it is not associated with a value
+2024-11-21 13:46:23,204 - User 1667940951 has started using the bot
+2024-11-21 13:46:23,290 - User 1667940951 has started using the bot
+2024-11-21 13:46:23,357 - User 1667940951 has started using the bot
+2024-11-21 13:46:23,378 - User 542065636 has started using the bot
+2024-11-21 13:46:23,443 - User 5862438479 has started using the bot
+2024-11-21 13:46:23,450 - User 542065636 has started using the bot
+2024-11-21 13:46:23,529 - User 5862438479 has started using the bot
+2024-11-21 13:46:43,659 - User 1667940951 has selected a role: language_learning
+2024-11-21 13:46:49,104 - User 1667940951 selected model: gpt-4
+2024-11-21 13:46:59,466 - User 5862438479 has started using the bot
+2024-11-21 13:47:02,286 - User 5862438479 has selected a role: programming_helper
+2024-11-21 13:47:02,563 - User 5862438479 has selected a role: psychologist
+2024-11-21 13:47:04,038 - User 5862438479 selected model: gpt-4
+2024-11-21 13:47:04,932 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:47:05,707 - User 5862438479 selected model: gpt-4
+2024-11-21 13:47:06,452 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:47:07,169 - User 5862438479 selected model: gpt-4
+2024-11-21 13:47:07,555 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:47:09,014 - User 5862438479 selected model: gpt-4
+2024-11-21 13:47:10,171 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:47:10,593 - User 1667940951 sent a message: Tell me what is integrity, bot replied: Integrity is a highly important character trait that individuals should strive to possess. It means adhering strictly to a moral and ethical code. If a person has integrity, they are honest, reliable and always try to do the right thing, even if nobody is watching or will ever know. They accept responsibility for their actions, treat others with respect and demonstrate consistency in their words and actions. As a word in English, integrity comes from the Latin word "integer" meaning whole or complete. In practice, this means a person with integrity does not break their internal values for convenience or personal gain.
+2024-11-21 13:47:12,168 - User 5862438479 selected model: gpt-4
+2024-11-21 13:47:13,140 - User 5862438479 selected model: gpt-4
+2024-11-21 13:47:14,142 - User 5862438479 selected model: gpt-4
+2024-11-21 13:53:03,971 - Error processing message for the user 1667940951: 'NoneType' object is not subscriptable
+2024-11-21 13:56:03,371 - User 5862438479 has started using the bot
+2024-11-21 13:56:05,350 - User 5862438479 has selected a role: language_learning
+2024-11-21 13:56:06,415 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 13:56:20,055 - User 5862438479 sent a message and received a response.
+2024-11-21 13:56:24,564 - User 5862438479 has started using the bot
+2024-11-21 13:57:55,329 - User 5862438479 has started using the bot
+2024-11-21 13:58:14,568 - User 5862438479 has started using the bot
+2024-11-21 13:58:15,939 - User 5862438479 has selected a role: choose_role
+2024-11-21 13:58:29,293 - error_code=None error_message='you must provide a model parameter' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-11-21 13:58:29,293 - Error while processing message from 5862438479: you must provide a model parameter
+2024-11-21 13:58:31,724 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:15:16,192 - User 5862438479 has started using the bot
+2024-11-21 14:15:17,928 - User 5862438479 has selected a role: add_custom_role
+2024-11-21 14:15:24,224 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:15:28,463 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:15:55,022 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:15:55,238 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:21:02,442 - User 5862438479 has started using the bot
+2024-11-21 14:21:18,468 - User 5862438479 has selected a role: create_role
+2024-11-21 14:22:16,133 - User 5862438479 has started using the bot
+2024-11-21 14:22:17,479 - User 5862438479 has selected a role: create_role
+2024-11-21 14:22:28,554 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:30,465 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:31,125 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:31,353 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:31,479 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:33,560 - User 5862438479 has selected a role: gpt-3.5-turbo
+2024-11-21 14:22:33,874 - User 5862438479 has selected a role: gpt-4
+2024-11-21 14:22:34,012 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:36,948 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:37,177 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:40,131 - User 5862438479 has selected a role: gpt-4
+2024-11-21 14:22:40,518 - User 5862438479 has selected a role: gpt-3.5-turbo
+2024-11-21 14:22:40,647 - User 5862438479 has selected a role: gpt-3.5-turbo
+2024-11-21 14:22:40,839 - User 5862438479 has selected a role: gpt-4
+2024-11-21 14:22:41,029 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:22:48,064 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:23:03,501 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:23:03,731 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:23:05,191 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:23:59,511 - User 5862438479 has started using the bot
+2024-11-21 14:24:00,514 - User 5862438479 has selected a role: create_role
+2024-11-21 14:24:10,024 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:24:11,071 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:24:11,349 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:24:11,427 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:24:11,619 - User 5862438479 has selected a role: gpt-4
+2024-11-21 14:24:17,961 - User 5862438479 has selected a role: gpt-4-turbo
+2024-11-21 14:27:19,744 - User 5862438479 has started using the bot
+2024-11-21 14:27:21,390 - User 5862438479 has selected a role: essay_writer
+2024-11-21 14:28:07,462 - User 5862438479 has started using the bot
+2024-11-21 14:28:12,808 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:28:29,500 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:28:45,263 - User 5862438479 sent a message: Fly, bot replied: The word "fly" can be used both as a noun and as a verb, and it has multiple meanings. If you're teaching English as a foreign language, it's helpful to explain these different uses and meanings to your students.
+
+1. **Verb (used without an object):** 
+   - **Primary meaning:** To move through the air using wings.
+     - Example: Birds can fly.
+   - **Secondary meanings:** 
+     - To travel by air.
+     - Example: We are flying to Paris tomorrow.
+     - To operate an aircraft.
+     - Example: She learned how to fly a helicopter.
+
+2. **Verb (used with an object):**
+   - To cause to fly or go through air.
+   - Example: The children are flying kites.
+
+3. **Noun:**
+   - A type of insect with wings.
+   - Example: There is a fly buzzing around the room.
+   - The flap of material covering the zipper or buttons at the front of a pair of pants.
+   - Example: His fly was unzipped.
+
+When teaching the verb "fly," it could also be useful to cover its different forms:
+   - Base form: fly
+   - Past Simple: flew
+   - Past Participle: flown
+   - -ing form: flying
+
+Remember to provide examples and possibly even some exercises where students can practice using the word "fly" in different contexts and tenses. This could include writing sentences or creating dialogues where they need to use both the noun and verb forms of the word.
+2024-11-21 14:30:05,194 - Error processing photo for the user 5862438479: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-11-21 14:31:11,767 - User 5862438479 has started using the bot
+2024-11-21 14:31:13,451 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:31:15,243 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:31:27,520 - Processed photo for 5862438479, the response has been sent.
+2024-11-21 14:39:39,453 - User 5862438479 has started using the bot
+2024-11-21 14:39:50,452 - User 5862438479 selected a role: programming_helper
+2024-11-21 14:45:59,464 - User 5862438479 has started using the bot
+2024-11-21 14:45:59,493 - User 5862438479 selected model: gpt-3.5-turbo
+2024-11-21 14:46:02,462 - User 5862438479 selected model: gpt-3.5-turbo
+2024-11-21 14:46:07,378 - User 5862438479 has started using the bot
+2024-11-21 14:46:10,444 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:46:11,517 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:46:26,253 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:46:33,432 - Processed photo for 5862438479, the response has been sent.
+2024-11-21 14:49:20,231 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:49:20,258 - User 5862438479 has started using the bot
+2024-11-21 14:49:21,608 - User 5862438479 has started using the bot
+2024-11-21 14:49:25,894 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:49:34,236 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:49:37,969 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:50:03,940 - User 5862438479 has started using the bot
+2024-11-21 14:50:04,804 - User 5862438479 has started using the bot
+2024-11-21 14:50:09,964 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:50:11,966 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:52:53,825 - User 5862438479 has started using the bot
+2024-11-21 14:52:55,594 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:53:01,201 - User 5862438479 has started using the bot
+2024-11-21 14:53:03,124 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:53:04,907 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:53:05,104 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+2024-11-21 14:53:05,106 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 105, in handle_selection
+    bot.edit_message_text(call.message.chat.id, call.message.message_id, 'Model Gpt-4 turbo has been selected!')
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4875, in edit_message_text
+    result = apihelper.edit_message_text(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1465, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+2024-11-21 14:54:35,523 - User 5862438479 has started using the bot
+2024-11-21 14:54:37,547 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:54:38,817 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:54:38,985 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+2024-11-21 14:54:38,988 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 104, in handle_selection
+    bot.edit_message_text(call.message.chat.id, call.message.message_id, 'Model Gpt-4 has been selected!')
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4875, in edit_message_text
+    result = apihelper.edit_message_text(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1465, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+2024-11-21 14:56:59,997 - User 5862438479 has started using the bot
+2024-11-21 14:57:02,364 - User 5862438479 has selected a role: language_learning
+2024-11-21 14:57:06,530 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 14:57:06,598 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 14:57:06,600 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 104, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 14:57:27,634 - User 5862438479 sent a message: \u041f\u043f\u043f, bot replied: \u041f\u0440\u0438\u0432\u0435\u0442! \u041a\u0430\u043a \u044f \u043c\u043e\u0433\u0443 \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u0441 \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u0441\u0435\u0433\u043e\u0434\u043d\u044f?
+2024-11-21 15:02:11,439 - User 5862438479 has started using the bot
+2024-11-21 15:02:20,307 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:02:22,860 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:02:23,942 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 15:02:23,944 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 116, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 15:02:49,308 - User 5862438479 has started using the bot
+2024-11-21 15:02:54,567 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:06:21,362 - User 5862438479 has started using the bot
+2024-11-21 15:06:27,356 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:06:29,492 - User 5862438479 has started using the bot
+2024-11-21 15:06:34,392 - User 5862438479 has selected a role: psychologist
+2024-11-21 15:08:12,130 - User 5862438479 has started using the bot
+2024-11-21 15:08:24,339 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:08:30,176 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:08:31,247 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 15:08:31,248 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 111, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 15:16:27,015 - User 5862438479 has started using the bot
+2024-11-21 15:16:31,907 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:16:32,292 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:16:33,362 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 15:16:33,363 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 136, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 15:17:12,073 - User 5862438479 is changing their role
+2024-11-21 15:23:20,224 - User 5862438479 has started using the bot
+2024-11-21 15:23:25,077 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:23:25,551 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:23:26,635 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 15:23:26,636 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 137, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 15:24:02,457 - User 5862438479 has started using the bot
+2024-11-21 15:24:07,044 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:24:07,157 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:24:08,227 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 15:24:08,228 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 136, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 15:24:57,555 - User 5862438479 has started using the bot
+2024-11-21 15:25:02,311 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:25:02,619 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:25:03,681 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-21 15:25:03,682 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 136, in handle_selection
+    bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=None)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-21 15:26:16,530 - User 5862438479 has started using the bot
+2024-11-21 15:26:21,095 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:26:31,369 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:27:08,544 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:27:08,680 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:27:16,099 - User 5862438479 has started using the bot
+2024-11-21 15:27:21,145 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:27:21,474 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:32:38,147 - User 5862438479 has started using the bot
+2024-11-21 15:32:43,162 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:32:43,631 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:39:30,853 - User 5862438479 has started using the bot
+2024-11-21 15:39:35,723 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:39:37,077 - Error processing text for user 5862438479: cannot access local variable 'response' where it is not associated with a value
+2024-11-21 15:41:20,262 - User 5862438479 has started using the bot
+2024-11-21 15:41:25,001 - User 5862438479 has selected a role: language_learning
+2024-11-21 15:41:33,437 - User 5862438479 selected model: gpt-4-turbo
+2024-11-21 15:41:45,807 - User 5862438479 has started using the bot
+2024-11-21 15:41:54,080 - User 5862438479 has selected a role: language_learning
+INFO:root:User 5862438479 has started using the bot
+INFO:root:User 5862438479 has selected a role: language_learning
+INFO:root:User 5862438479 selected model: gpt-3.5-turbo
+INFO:root:User 5862438479 has started using the bot
+INFO:root:User 5862438479 has selected a role: language_learning
+INFO:root:User 5862438479 selected model: gpt-4-turbo
+2024-11-22 01:01:01,955 - User 5862438479 has started using the bot
+2024-11-22 01:01:06,710 - User 5862438479 has selected a role: language_learning
+2024-11-22 01:01:06,933 - User 5862438479 selected model: gpt-4-turbo
+2024-11-22 01:03:25,507 - User 542065636 has started using the bot
+2024-11-22 01:03:36,359 - User 542065636 has selected a role: psychologist
+2024-11-22 01:03:39,224 - User 542065636 selected model: gpt-4-turbo
+2024-11-22 01:11:04,114 - User 5862438479 has started using the bot
+2024-11-22 01:11:08,749 - User 5862438479 has selected a role: language_learning
+2024-11-22 01:11:19,953 - User 5862438479 selected model: gpt-4-turbo
+2024-11-22 01:11:29,188 - I'm here to promote a positive and respectful learning environment. If you have any questions or need assistance with language learning, feel free to ask!
+2024-11-22 01:12:16,769 - User 5862438479 has started using the bot
+2024-11-22 01:12:21,456 - User 5862438479 has selected a role: language_learning
+2024-11-22 01:12:21,502 - User 5862438479 selected model: gpt-4-turbo
+2024-11-22 01:12:26,425 - Fuck me
+2024-11-22 01:12:29,676 - I'm here to help you with appropriate language learning. If you have any questions or need assistance with learning a new language, feel free to ask!
+2024-11-24 22:29:09,556 - Role selection sent to user 5862438479
+2024-11-24 22:29:11,546 - Model selection sent to user 5862438479
+2024-11-24 22:29:14,321 - User 5862438479 selected model: gpt-3.5-turbo
+2024-11-24 22:32:17,987 - User 5862438479 has started using the bot
+2024-11-24 22:32:21,391 - User 5862438479 selected model: gpt-4-turbo
+2024-11-24 22:36:15,509 - User 5862438479 has started using the bot
+2024-11-24 22:36:54,534 - User 5862438479 has started using the bot
+2024-11-24 22:36:57,508 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-24 22:36:57,509 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 73, in handle_selection
+    bot.delete_message(chat_id, call.message.chat.id)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1959, in delete_message
+    return apihelper.delete_message(self.token, chat_id, message_id, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1540, in delete_message
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+
+2024-11-24 22:37:39,372 - User 5862438479 has started using the bot
+2024-11-24 22:37:46,020 - User 5862438479 selected model: gpt-4-turbo
+2024-11-24 22:38:38,518 - User 5862438479 has started using the bot
+2024-11-24 22:38:41,572 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2024-11-24 22:38:41,573 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 75, in handle_selection
+    bot.edit_message_reply_markup(chat_id, call.message.message_id, reply_markup=None)  # \u0423\u0431\u0438\u0440\u0430\u0435\u043c \u043a\u043d\u043e\u043f\u043a\u0438 \u0432\u044b\u0431\u043e\u0440\u0430 \u043c\u043e\u0434\u0435\u043b\u0438
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2024-11-24 22:39:30,328 - User 5862438479 has started using the bot
+2024-11-24 22:39:33,186 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+2024-11-24 22:39:33,186 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 75, in handle_selection
+    bot.edit_message_reply_markup(chat_id, call.message.message_id, reply_markup=None)  # \u0423\u0431\u0438\u0440\u0430\u0435\u043c \u043a\u043d\u043e\u043f\u043a\u0438 \u0432\u044b\u0431\u043e\u0440\u0430 \u043c\u043e\u0434\u0435\u043b\u0438
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 4965, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1532, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+2024-11-24 22:40:43,935 - User 5862438479 has started using the bot
+2024-11-24 22:40:46,657 - User 5862438479 selected model: gpt-4-turbo
+2024-11-24 23:15:03,468 - User 5862438479 has started using the bot
+2024-11-24 23:15:14,591 - fly
+2024-11-24 23:15:17,022 - Error processing text for user 5862438479: 'role_description'
+2024-11-24 23:16:46,288 - ggg
+2024-11-24 23:16:48,552 - Error processing text for user 5862438479: 'role_description'
+2024-11-24 23:17:49,223 - User 5862438479 has started using the bot
+2024-11-24 23:17:57,889 - h\
+2024-11-24 23:18:00,146 - Error processing text for user 5862438479: 'role_description'
+2024-11-24 23:19:28,710 - User 5862438479 has started using the bot
+2024-11-24 23:19:31,943 - User 5862438479 selected model: gpt-4-turbo
+2024-11-24 23:19:34,862 - fly
+2024-11-25 18:53:34,716 - [START] User 5862438479 started the bot.
+2024-11-25 18:53:36,077 - [ROLE SELECTED] User 5862438479 selected role: language_learning
+2024-11-25 18:53:41,335 - [MODEL SELECTED] User 5862438479 selected model: gpt-4-turbo
+2024-11-25 18:53:41,399 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-25 18:53:41,399 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 54, in handle_selection
+    bot.delete_message(chat_id, user_info['role_message_id'])
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1959, in delete_message
+    return apihelper.delete_message(self.token, chat_id, message_id, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1540, in delete_message
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+
+2024-11-25 18:53:50,172 - [PHOTO] User 5862438479 sent a photo. Processing begins.
+2024-11-25 18:53:50,764 - [TEXT EXTRACTED] From photo: & Teams Video
+<q Bctyn 3a cneuianbtic...
+
+phauN
+3BOHMT no6umaan
+
+we
+
+ee,
+
+llya
+E6OaTb axyeBuiee
+
+Oo 1:29
+
+Unread Messages
+
+viadysya
+KTO 970 45:31
+
+4e OHM Clofja NPUWAN ,..;,
+
+i ï¿½C0 CBOUM CopTcepBOM 45.5;
+
+@ (Message 8S o)
+
+OHBGEDOOED=
+
+ï¿½ g
+
+123
+
+
+2024-11-25 18:53:54,328 - [PHOTO RESPONSE] User 5862438479: It seems there might be some error in your input as it includes a mix of random characters and text. Could you please clarify or rephrase your inquiry? If you have specific questions about learning foreign languages or need assistance with translations or exercises, feel free to ask!
+2024-11-25 18:54:25,345 - [START] User 5862438479 started the bot.
+2024-11-25 18:54:26,568 - [ROLE SELECTED] User 5862438479 selected role: language_learning
+2024-11-25 18:56:50,767 - [START] User 5862438479 started the bot.
+2024-11-25 18:56:52,069 - [ROLE SELECTED] User 5862438479 selected role: language_learning
+2024-11-25 18:56:56,796 - [MODEL SELECTED] User 5862438479 selected model: gpt-4-turbo
+2024-11-25 18:56:56,854 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-25 18:56:56,855 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 8945, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\main.py", line 54, in handle_selection
+    bot.delete_message(chat_id, user_info['role_message_id'])
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\__init__.py", line 1959, in delete_message
+    return apihelper.delete_message(self.token, chat_id, message_id, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 1540, in delete_message
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PycharmProjects\pythontgbot\venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+
+2024-11-25 18:57:57,579 - [START] User 5862438479 started the bot.
+2024-11-25 18:57:58,876 - [ROLE SELECTED] User 5862438479 selected role: language_learning
+2024-11-25 18:58:03,198 - [MODEL SELECTED] User 5862438479 selected model: gpt-4-turbo
+2024-11-25 18:58:03,266 - [DELETE MESSAGE ERROR] Failed to delete message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-25 18:58:11,138 - [PHOTO] User 5862438479 sent a photo. Processing begins.
+2024-11-25 18:58:11,861 - [TEXT EXTRACTED] From photo: 15:28N ï¿½ al 4G @
+@ï¿½music @a x
+Podcasts Workout Energize Relax
+Quick picks Play all
+River (feat. Ed Sheeran) 47
+Opykne
+i 1
+.ï¿½ End of Beginning F
+a ï¿½ xX}
+=> =+ Fe \
+Play next Save to playlist Share
+() Start radio
+=f Add to queue
+|| Save to library
+2% Download
+ï¿½
+ï¿½  Gotoalbum F
+Qs  Gotoartist
+#3 View song credits
+
+2024-11-25 18:58:17,741 - [PHOTO RESPONSE] User 5862438479: Hello! It looks like you've pasted an interface, possibly from a music streaming app or a multimedia player. How can I assist you with this? Are you looking for information on how to use this app, or perhaps something related to music, language learning, or any other help? Let me know how I can assist you with your specific needs!
+2024-11-25 18:58:26,101 - [TEXT RECEIVED] User 5862438479: What is illumining
+2024-11-25 18:58:31,397 - [TEXT RESPONSE] User 5862438479: The word "illumining" is a form of the verb "illumine," which means to light up or brighten. It is similar in meaning to "illuminate." In a broader sense, it can also refer to enlightening someone intellectually or spiritually, providing them with knowledge or insight that clarifies and enhances their understanding.
+
+For example:
+- The documentary aimed at illumining the public on the impacts of climate change.
+- The candles are used for illumining the room during the power outage.
+2024-11-25 19:01:01,743 - [START] User 5862438479 started the bot.
+2024-11-25 19:01:02,892 - [ROLE SELECTED] User 5862438479 selected role: language_learning
+2024-11-25 19:01:07,039 - [MODEL SELECTED] User 5862438479 selected model: gpt-4-turbo
+2024-11-25 19:01:07,164 - [DELETE MESSAGE ERROR] Failed to delete message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-25 19:01:12,393 - [PHOTO] User 5862438479 sent a photo. Processing begins.
+2024-11-25 19:01:13,051 - [TEXT EXTRACTED] From photo: & Teams Video
+<q Bctyn 3a cneuianbtic...
+
+phauN
+3BOHMT no6umaan
+
+we
+
+ee,
+
+llya
+E6OaTb axyeBuiee
+
+Oo 1:29
+
+Unread Messages
+
+viadysya
+KTO 970 45:31
+
+4e OHM Clofja NPUWAN ,..;,
+
+i ï¿½C0 CBOUM CopTcepBOM 45.5;
+
+@ (Message 8S o)
+
+OHBGEDOOED=
+
+ï¿½ g
+
+123
+
+
+2024-11-25 19:01:16,906 - [PHOTO RESPONSE] User 5862438479: It appears that your message contains a mix of gibberish, possibly encoded or corrupted text, and broken lines that don't form any clear question or statement in any recognizable language. To assist you better, could you please provide a clearer message or specify your question or request? Thank you!
+2024-11-25 19:01:22,651 - [TEXT RECEIVED] User 5862438479: Fly
+2024-11-25 19:01:27,075 - [TEXT RESPONSE] User 5862438479: It seems like you've simply mentioned the word "Fly." Could you please provide more context or elaborate on your question or request related to foreign languages? For example, are you asking for translations or explanations of the word "fly" in different languages, or is there a specific language-related task you'd like to focus on?
+2024-11-25 19:12:23,572 - User 5862438479 started the bot.
+2024-11-25 19:12:25,062 -  User 5862438479 selected role: language_learning
+2024-11-25 19:12:29,602 - User 5862438479 selected model: gpt-4-turbo
+2024-11-25 19:12:29,658 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+
+
+2024-11-25 19:21:09,973 - User 5862438479 started the bot.
+2024-11-25 19:21:11,328 -  User 5862438479 selected role: language_learning
+2024-11-25 19:21:15,251 - User 5862438479 selected model: gpt-4-turbo
+2024-11-25 19:21:15,306 - Something bad:A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-25 19:21:22,062 - User 5862438479 sent a photo.
+2024-11-25 19:21:23,073 - From photo: yapenuee
+
+woth
+
+fav say Se) as
+de-9 y-4970 %
+
+yao tito
+
+npawie 4] ohh
+ie Bjemare bg mOeH Fo
+
+)
+
+ne  e
+2
+
+(2 ,
+
+Lie = iu
+
+a
+
+
+2024-11-25 19:21:26,551 - User 5862438479: It seems like your message is unclear or corrupted. Could you please provide more details or clarify your question or request? I'm here to help with any language learning tasks or questions you might have!
+2024-11-25 19:21:41,706 - User 5862438479: What it mixed conditionals?
+2024-11-25 19:21:56,268 - User 5862438479: Mixed conditionals are sentences that blend different types of conditional clauses—usually mixing time frames. In English, conditionals are typically used to discuss possibilities, hypothetical situations, and their consequences. There are generally four basic types of conditionals: zero, first, second, and third. Each type corresponds to different kinds of possibilities, ranging from real and specific to hypothetical and general.
+
+Here is a breakdown of each:
+
+1. **Zero Conditional**: Used for factual or general truths — "If you heat ice, it melts."
+2. **First Conditional**: Used for real and possible situations in the future — "If it rains tomorrow, I will stay at home."
+3. **Second Conditional**: Used for hypothetical or unlikely situations in the present or future — "If I won the lottery, I would buy a car."
+4. **Third Conditional**: Used for hypothetical situations in the past, something that did not happen — "If I had known you were sick, I would have visited you."
+
+### Mixed Conditionals
+Mixed conditionals combine elements of these different types mentioned above. They often mix a condition from the past (from the third conditional) with a result in the present (from the second conditional) or vice versa. They are used to discuss hypothetical situations that have a relationship between the past and the present.
+
+#### Examples of Mixed Conditionals:
+1. **Past Condition with Present Result**: 
+   - "If I had studied harder, I would be at a better job now." (Here, the condition is past perfect, and the result uses would + base verb, indicating a present consequence of a past action.)
+   
+2. **Present Condition with Past Result**: 
+   - This is less common but can occur in nuanced cases, often needing more contextual tweaking to sound natural.
+
+Mixed conditionals are particularly useful for expressing regret, criticism, or reflecting on how past decisions affect the present. Understanding and using them can greatly enhance your ability to communicate complex thoughts and emotions in English.
+2024-11-27 00:19:20,358 - User 5862438479 started the bot.
+2024-11-27 00:19:21,535 -  User 5862438479 selected role: language_learning
+2024-11-27 00:19:25,521 - User 5862438479 selected model: gpt-4-turbo
+2024-11-27 00:19:25,574 - Something bad:A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-27 00:19:31,586 - User 5862438479: Fuck
+2024-11-27 00:19:34,863 - User 5862438479: Hey! It looks like you might be feeling frustrated. If you're finding language learning a bit tough today or if there's something specific you're struggling with, let me know! I'm here to help.
+2024-11-27 00:20:51,286 - User 607401135 started the bot.
+2024-11-27 00:20:55,192 -  User 607401135 selected role: psychologist
+2024-11-27 00:21:02,037 - User 607401135 selected model: gpt-4
+2024-11-27 00:21:02,088 - Something bad:A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2024-11-27 00:21:49,353 - User 607401135: \u043a\u0430\u043a \u043d\u0435 \u0437\u0430\u0435\u0431\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0438\u0441\u0442\u043e\u0440\u0438\u0438?(
+2024-11-27 00:22:00,644 - User 607401135: \u042f \u0440\u0430\u0437\u0443\u043c\u0435\u044e, \u0447\u0442\u043e \u0443 \u0432\u0430\u0441 \u043c\u043e\u0433\u0443\u0442 \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u0443\u0442\u044c \u0442\u0440\u0443\u0434\u043d\u043e\u0441\u0442\u0438 \u0441 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u043c \u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0438. \u0412\u043e\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u043e\u0431\u0440\u0435\u0441\u0442\u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441:
+
+1. \u041f\u043e\u0441\u0442\u0430\u0440\u0430\u0439\u0442\u0435\u0441\u044c \u0443\u0432\u0438\u0434\u0435\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u043a\u0430\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u044e\u0434\u0435\u0439. \u042d\u0442\u043e \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u043d\u0430\u0431\u043e\u0440 \u0434\u0430\u0442 \u0438 \u0441\u043e\u0431\u044b\u0442\u0438\u0439, \u044d\u0442\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043e \u043b\u044e\u0434\u044f\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0436\u0438\u043b\u0438 \u0434\u043e \u043d\u0430\u0441. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u0435\u0431\u044f \u043d\u0430 \u0438\u0445 \u043c\u0435\u0441\u0442\u0435 - \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0435\u0442 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u0431\u043e\u043b\u0435\u0435 \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u043c.
+
+2. \u041f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043a \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u043c\u0443. \u041c\u043e\u0436\u0435\u0442\u0435 \u043b\u0438 \u0432\u044b \u043d\u0430\u0439\u0442\u0438 \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438 \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u043e\u0448\u043b\u044b\u043c \u0438 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u043c? \u042d\u0442\u043e \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043b\u0443\u0447\u0448\u0435 \u043f\u043e\u043d\u044f\u0442\u044c, \u043f\u043e\u0447\u0435\u043c\u0443 \u043c\u0438\u0440 \u0442\u0430\u043a\u043e\u0439, \u043a\u0430\u043a\u043e\u0439 \u043e\u043d \u0435\u0441\u0442\u044c \u0441\u0435\u0433\u043e\u0434\u043d\u044f.
+
+3. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0440\u0430\u0437\u043d\u044b\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u0438. \u0412\u043c\u0435\u0441\u0442\u043e \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0441\u0442\u043e \u0447\u0438\u0442\u0430\u0442\u044c \u0443\u0447\u0435\u0431\u043d\u0438\u043a, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0438\u043b\u044c\u043c, \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u043e\u043c\u0430\u043d \u0438\u043b\u0438 \u0434\u0430\u0436\u0435 \u043f\u043e\u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0443\u044e \u0438\u0433\u0440\u0443.
+
+4. \u041e\u0431\u0441\u0443\u0434\u0438\u0442\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438. \u041e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430 \u0438 \u043e\u0431\u043c\u0435\u043d \u043c\u043d\u0435\u043d\u0438\u044f\u043c\u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u043b\u0443\u0447\u0448\u0435 \u043f\u043e\u043d\u044f\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u044e.
+
+\u041d\u0430\u0434\u0435\u044e\u0441\u044c, \u0447\u0442\u043e \u044d\u0442\u0438 \u0441\u043e\u0432\u0435\u0442\u044b \u043f\u043e\u043c\u043e\u0433\u0443\u0442 \u0432\u0430\u043c \u043d\u0430\u0439\u0442\u0438 \u043d\u043e\u0432\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u043a \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e \u0438\u0441\u0442\u043e\u0440\u0438\u0438!
+2024-12-02 02:43:59,196 - User 5862438479 started the bot.
+2024-12-02 02:44:01,034 -  User 5862438479 selected role: language_learning
