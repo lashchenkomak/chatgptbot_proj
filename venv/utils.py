@@ -1,4 +1,5 @@
 from telebot import types
+import openai
 from PIL import Image
 import pytesseract
 import time

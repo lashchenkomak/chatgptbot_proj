@@ -2,8 +2,8 @@ import telebot
 import openai
 from utils import start_command, handle_selection, handle_photo, handle_text
 import logging
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
 
 load_dotenv()
 my_api_key = os.getenv('API_KEY')
@@ -39,11 +39,11 @@ def callback(call):
     handle_selection(bot, call, user_data, logger)
 
 @bot.message_handler(content_types=['photo'])
-def extract_photo(message):
+def photo(message):
     handle_photo(bot, message, user_data, logger)
 
 @bot.message_handler(func=lambda message: True)
-def extract_text(message):
+def text(message):
     handle_text(bot, message, user_data, logger)
 
 
